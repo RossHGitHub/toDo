@@ -1,0 +1,1 @@
+let html=document.querySelector('html').innerHTML='tested';
